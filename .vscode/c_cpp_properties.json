@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Windows",
+            "cStandard": "gnu17",
+            "cppStandard": "c++17",
+            "compilerPath": "C:/ProgramData/chocolatey/lib/mingw/tools/install/mingw64/bin/g++.exe",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/include"
+            ]
+        }
+    ],
+    "version": 4
+}
